@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Shopify Detector",
+  "version": "0.0.1",
+  "description": "Detects Shopify and Shopify Plus stores",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "public/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["dist/content.js"]
+    }
+  ]
+}
