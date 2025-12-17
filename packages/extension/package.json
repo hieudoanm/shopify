@@ -1,7 +1,7 @@
 {
-  "name": "extension",
+  "name": "@shopify/extension",
   "version": "0.0.1",
-  "description": "",
+  "description": "Shopify Extension",
   "main": "index.js",
   "keywords": [],
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
