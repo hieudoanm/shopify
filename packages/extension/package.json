@@ -8,7 +8,7 @@
   "license": "GPL-3.0",
   "packageManager": "pnpm@10.29.2",
   "engines": {
-    "node": "25.6.0"
+    "node": "25.6.1"
   },
   "scripts": {
     "prebuild": "rimraf dist",
@@ -21,7 +21,7 @@
     "@eslint/js": "10.0.1",
     "@types/archiver": "7.0.0",
     "@types/chrome": "0.1.36",
-    "@types/node": "25.2.2",
+    "@types/node": "25.2.3",
     "archiver": "7.0.1",
     "eslint": "10.0.0",
     "globals": "17.3.0",
