@@ -23,7 +23,7 @@
     "@types/chrome": "0.1.36",
     "@types/node": "25.2.3",
     "archiver": "7.0.1",
-    "eslint": "9.39.2",
+    "eslint": "10.0.0",
     "globals": "17.3.0",
     "prettier": "3.8.1",
     "rimraf": "6.1.2",
